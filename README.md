@@ -1,3 +1,3 @@
 # Linked-Structures
 A linked lisst impleamentation
-The diffrent
+The diffrent functions used
