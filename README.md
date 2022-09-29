@@ -1,3 +1,3 @@
 # Linked-Structures
-A linked lisst impleamentation
+A linked list impleamentation
 The diffrent functions used foexample sort,append
