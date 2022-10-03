@@ -1,3 +1,3 @@
 # Linked-Structures
 ## A linked list impleamentation
-The linked list has diffrent methods that are used for example sort, append adding elements
+The linked list has diffrent methods that are used for example sort, append adding elements to the front
